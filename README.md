@@ -3,7 +3,7 @@
 ![Screenshot 2023-10-25 at 00 58 52 (2)](https://github.com/CCSilvs/EFI-MSI-MPG-B550-GAMING-PLUS/assets/91890693/b10d0f38-23a8-4fed-a588-c85a5f1b04b2)
 
 
-**MacOS version:** Ventura 13.6
+**MacOS version:** Ventura 13.5.2
 <br>
 **OpenCore version:** 0.9.5
 
