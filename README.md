@@ -1,9 +1,9 @@
 # Fully Functional MSI MPG B550 Gaming Plus Hackintosh
 
-![Screenshot 2023-10-25 at 00 58 52 (2)](https://github.com/CCSilvs/EFI-MSI-MPG-B550-GAMING-PLUS/assets/91890693/b10d0f38-23a8-4fed-a588-c85a5f1b04b2)
+![Screenshot 2023-10-25 at 00 58 52-3](https://github.com/CCSilvs/EFI-MSI-MPG-B550-GAMING-PLUS/assets/91890693/d275c2fe-6124-4996-b5fc-f6cfbae9bb99)
 
 
-**MacOS version:** Ventura 13.5.2
+**MacOS version:** Ventura 13.6
 <br>
 **OpenCore version:** 0.9.5
 
@@ -85,10 +85,11 @@
 
 ## Geekbench results
 CPU <br>
-<img width="850" alt="Screenshot 2023-10-24 at 21 58 41" src="https://github.com/CCSilvs/EFI-ASUS-TUF-GAMING-X570-PLUS-BR-/assets/91890693/6da6f4d3-0929-4f29-9cb1-a49c3b3895b6">
+<img width="854" alt="Screenshot 2023-10-25 at 03 23 13" src="https://github.com/CCSilvs/EFI-MSI-MPG-B550-GAMING-PLUS/assets/91890693/a86a2185-6717-4cc6-acfe-1e47fc6dee64">
 
 GPU <br>
-<img width="851" alt="Screenshot 2023-10-24 at 21 59 17" src="https://github.com/CCSilvs/EFI-ASUS-TUF-GAMING-X570-PLUS-BR-/assets/91890693/e25f791d-7985-4a24-acaa-9850156ed9b8">
+<img width="852" alt="Screenshot 2023-10-25 at 03 28 54" src="https://github.com/CCSilvs/EFI-MSI-MPG-B550-GAMING-PLUS/assets/91890693/155cbf58-ee01-4822-a15e-4b468c3b4553">
+
 
 ## Credits
 - <p>Special thnx to <a href="https://github.com/luchina-gabriel/"> Gabriel Luchina</a></p>
